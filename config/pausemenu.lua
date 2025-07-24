@@ -1,1 +1,0 @@
--- Pause menu config placeholder
